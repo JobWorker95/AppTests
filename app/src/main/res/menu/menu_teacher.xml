@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TeacherActivity">
+    <item
+        android:id="@+id/aCreate"
+        android:orderInCategory="100"
+        android:title="Создать тест"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/aFaculty"
+        android:orderInCategory="100"
+        android:title="Факультеты"
+        app:showAsAction="never" >
+        <menu >
+            <item
+                android:id="@+id/aFAdd"
+                android:title="Добавить" />
+            <item
+                android:id="@+id/aFDelete"
+                android:title="Удалить" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/aGroups"
+        android:orderInCategory="101"
+        android:title="Группы">
+        <menu>
+            <item
+                android:id="@+id/aGAdd"
+                android:title="Добавить" />
+            <item
+                android:id="@+id/aGDelete"
+                android:title="Удалить" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/aResult"
+        android:title="Результат студента" />
+</menu>

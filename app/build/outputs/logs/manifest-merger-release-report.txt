@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:mediarouter-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-27.1.1.aar\b800e4b352b6fe30f6bd0dba50d2925c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ffe780a1768b129eba28130d1b412a38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e1768f40d1128008e55cdf7f15d5916b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a76d7488d2e72e9f242305b82bf0f85c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\88ee21b1c6bfb788a1798f6e26ad8b0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0fe132f8b3c9e2c15415afd102212804\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5443c214766aef525fae2660934b60cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\30a4cd8a8e43c105dff521955cb90b88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8f5eb5bd7f6485c5c9376feaffec7527\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e7b22c27cb9b10cece95abbba55636f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7987ca0da3e419401675df9e4cff4947\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e92bded2ac1e0a2e511847f954dfc0ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2d141410e55796ed4e1d9fe1ca858f55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\429c44fb5e513f89b79f1ab4d6ae0448\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c8eabc89725c7da957d549a6c646e0fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9db084c51fdef47113c133fee4e93bf9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\285070ebd275181e73004836195f3295\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76f84eb77a3f31008aa0e823f4c87379\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1c981df9f365ec55a7acbefbdbf5fa8c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\61b7b650823522feafbc0cea94d29c89\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:7:22-73
+application
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:9:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a76d7488d2e72e9f242305b82bf0f85c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a76d7488d2e72e9f242305b82bf0f85c\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:15:9-59
+activity#com.example.valer.myapplication.MainActivity
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:16:9-19:63
+	android:label
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:18:13-33
+	android:icon
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:17:13-41
+	android:theme
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:19:13-51
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:16:19-47
+activity#com.example.valer.myapplication.FirstActivity
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:20:9-25:20
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:20:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.valer.myapplication.TeacherActivity
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:26:9-28:69
+	android:label
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:27:19-47
+	android:theme
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:28:19-57
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:26:19-50
+activity#com.example.valer.myapplication.StudentActivity
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:30:9-53
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:30:19-50
+activity#com.example.valer.myapplication.CreateTestActivity
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:32:9-34:69
+	android:label
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:33:19-47
+	android:theme
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:34:19-57
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:32:19-53
+activity#com.example.valer.myapplication.CheckActivity
+ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:36:9-60
+	android:name
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml:36:19-48
+uses-sdk
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:mediarouter-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-27.1.1.aar\b800e4b352b6fe30f6bd0dba50d2925c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-27.1.1.aar\b800e4b352b6fe30f6bd0dba50d2925c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ffe780a1768b129eba28130d1b412a38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ffe780a1768b129eba28130d1b412a38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e1768f40d1128008e55cdf7f15d5916b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e1768f40d1128008e55cdf7f15d5916b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a76d7488d2e72e9f242305b82bf0f85c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a76d7488d2e72e9f242305b82bf0f85c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\88ee21b1c6bfb788a1798f6e26ad8b0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\88ee21b1c6bfb788a1798f6e26ad8b0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0fe132f8b3c9e2c15415afd102212804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0fe132f8b3c9e2c15415afd102212804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5443c214766aef525fae2660934b60cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5443c214766aef525fae2660934b60cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\30a4cd8a8e43c105dff521955cb90b88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\30a4cd8a8e43c105dff521955cb90b88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8f5eb5bd7f6485c5c9376feaffec7527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8f5eb5bd7f6485c5c9376feaffec7527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e7b22c27cb9b10cece95abbba55636f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e7b22c27cb9b10cece95abbba55636f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7987ca0da3e419401675df9e4cff4947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7987ca0da3e419401675df9e4cff4947\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e92bded2ac1e0a2e511847f954dfc0ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e92bded2ac1e0a2e511847f954dfc0ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2d141410e55796ed4e1d9fe1ca858f55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2d141410e55796ed4e1d9fe1ca858f55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\429c44fb5e513f89b79f1ab4d6ae0448\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\429c44fb5e513f89b79f1ab4d6ae0448\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c8eabc89725c7da957d549a6c646e0fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c8eabc89725c7da957d549a6c646e0fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9db084c51fdef47113c133fee4e93bf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9db084c51fdef47113c133fee4e93bf9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\285070ebd275181e73004836195f3295\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\285070ebd275181e73004836195f3295\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76f84eb77a3f31008aa0e823f4c87379\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76f84eb77a3f31008aa0e823f4c87379\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1c981df9f365ec55a7acbefbdbf5fa8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1c981df9f365ec55a7acbefbdbf5fa8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\61b7b650823522feafbc0cea94d29c89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Valer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\61b7b650823522feafbc0cea94d29c89\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Valer\Desktop\DB VKR\MyApplication4\app\src\main\AndroidManifest.xml

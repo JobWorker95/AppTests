@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/aNext"
+        android:orderInCategory="100"
+        android:title="Вперед"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/aBack"
+        android:orderInCategory="100"
+        android:title="Назад"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/aAdd"
+        android:orderInCategory="100"
+        android:title="Добавить вопрос"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/aDelete"
+        android:orderInCategory="100"
+        android:title="Удалить вопрос"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/aSave"
+        android:orderInCategory="100"
+        android:title="Сохранить тест"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/aSaveServer"
+        android:orderInCategory="100"
+        android:title="Save in Internet"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/aCancel"
+        android:orderInCategory="100"
+        android:title="Отмена"
+        app:showAsAction="never" ></item>
+
+</menu>
